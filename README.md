@@ -7,11 +7,13 @@ should help the company plan for the upcoming wave of retirees.
 ## Results
 - our sorted count shows MANY employees are eligible to retire.
 - it also shows the majority of those employees are Senior Engineers or Senior Staff.
+![image](https://user-images.githubusercontent.com/66809577/182285069-21b3df61-862e-47e6-afea-aa2b6733cbc1.png)
 
 
 - Through our second deliverable we can see that only a fraction of those are eligible 
 to join the mentorship program.
 - using the second deliverable we can also see which titles these employees hold.
+![image](https://user-images.githubusercontent.com/66809577/182285095-ca3097b0-8226-4dea-add9-1fdcca8a1cf2.png)
 
 ## Summary
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
