@@ -24,3 +24,4 @@ to join the mentorship program.
 ### Possible insight
 - the following query breaks down how many of each title can be used for the program, this may help decide 
 how many people are assigned to a mentor
+![image](https://user-images.githubusercontent.com/66809577/182284975-c25e6667-ea2e-4bf3-a44a-8e0ba06d6d4b.png)
